@@ -1,2 +1,2 @@
 # This file intentionally left blank
-#SPLIT_KEYBOARD = yes
+SPLIT_KEYBOARD = yes

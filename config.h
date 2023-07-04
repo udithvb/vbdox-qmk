@@ -20,5 +20,6 @@
 //#define NO_ACTION_ONESHOT
 //
 //
-//#define MASTER_LEFT
-//#define SOFT_SERIAL_PIN D0
+
+#define MASTER_LEFT
+#define SOFT_SERIAL_PIN D0

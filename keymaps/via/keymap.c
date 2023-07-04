@@ -25,7 +25,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  *                                 |      |      |  4   |       | PgDn |        |      |
  *                                 `--------------------'       `----------------------'
  */
-    [0] = LAYOUT_ortho_5x8(
+    [0] = LAYOUT_ortho_5x10(
         KC_A,   KC_B,   KC_C,  KC_D, KC_E, KC_F, KC_G,                                        KC_A,   KC_B,   KC_C,  KC_D, KC_E, KC_F, KC_G, 
         KC_H,   KC_I,   KC_J,  KC_K, KC_L, KC_M, KC_N,                                        KC_H,   KC_I,   KC_J,  KC_K, KC_L, KC_M, KC_N,
         KC_O,   KC_P,   KC_Q,  KC_R, KC_S, KC_T, KC_U,                                        KC_O,   KC_P,   KC_Q,  KC_R, KC_S, KC_T, KC_U,        

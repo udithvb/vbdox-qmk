@@ -32,7 +32,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_W,   KC_X,   KC_Y,  KC_Z, KC_1, KC_2,                                              KC_W,   KC_X,   KC_Y,  KC_Z, KC_1, KC_2,  
         KC_5,   KC_6,   KC_7,  KC_8, KC_9,                                                    KC_5,   KC_6,   KC_7,  KC_8, KC_9,  
                                                        KC_A,KC_B,              KC_A,KC_B,
-                                                       KC_1, KC_2,KC_3,KC_4,   KC_1, KC_2,KC_3,KC_4
+                                                     QK_BOOT, KC_2,KC_3,KC_4,   QK_BOOT, KC_2,KC_3,KC_4
     ),
 
     [1] = LAYOUT_ortho_5x10(
